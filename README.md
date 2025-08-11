@@ -65,3 +65,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+python src/main.py info
+# 📦 Project: tamom-zendegi
+# 📝 Version: 1.0.0
+# 👨‍💻 Author: Your Name
+# 🚀 Description: A professional GitHub starter template.
