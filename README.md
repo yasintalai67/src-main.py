@@ -42,7 +42,7 @@ def main():
         help="Enable verbose output"
     )
 
-    subparsers = parser.add_subparsers(title="Commands")
+    
 
     # hello command
     parser_hello = subparsers.add_parser("hello", help="Say hello to someone")
