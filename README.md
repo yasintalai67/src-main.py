@@ -44,12 +44,7 @@ def main():
 
     
 
-    # hello command
-    parser_hello = subparsers.add_parser("hello", help="Say hello to someone")
-    parser_hello.add_argument("name", help="Your name")
-    parser_hello.set_defaults(func=cmd_hello)
-
-    # info command
+        # info command
     parser_info = subparsers.add_parser("info", help="Show project info")
     parser_info.set_defaults(func=cmd_info)
 
