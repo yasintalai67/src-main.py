@@ -42,7 +42,9 @@ def main():
         help="Enable verbose output"
     )
 
-    
+
+
+    like
 
         # info command
     parser_info = subparsers.add_parser("info", help="Show project info")
