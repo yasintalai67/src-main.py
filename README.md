@@ -43,9 +43,6 @@ def main():
     )
 
 
-
-    like
-
         # info command
     parser_info = subparsers.add_parser("info", help="Show project info")
     parser_info.set_defaults(func=cmd_info)
