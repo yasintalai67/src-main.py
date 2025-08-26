@@ -48,8 +48,6 @@ def main():
     parser_info.set_defaults(func=cmd_info)
 
     # Parse args
-    args = parser.parse_args()
-
     if hasattr(args, "func"):
         setup_logger(args.verbose)
         args.func(args)
