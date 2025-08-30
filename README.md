@@ -43,7 +43,8 @@ def main():
     )
 
 
-ok power
+
+import argparse
 
         # info command
     parser_info = subparsers.add_parser("info", help="Show project info")
