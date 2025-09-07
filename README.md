@@ -36,7 +36,7 @@ def main():
     parser = argparse.ArgumentParser(
         prog="tamom-zendegi",
         description="A professional CLI tool for your project."
-    )
+    )imphesis rpx
     parser.add_argument(
         "-v", "--verbose", action="store_true",
         help="Enable verbose output"
