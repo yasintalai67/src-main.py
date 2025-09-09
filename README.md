@@ -9,7 +9,7 @@ import argparse
 import logging
 from datetime import datetime
 import sys
-
+nice power
 # -------------------- LOGGER SETUP --------------------
 def setup_logger(verbose: bool):
     """Configure logger with optional verbose mode."""
