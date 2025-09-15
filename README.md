@@ -8,7 +8,7 @@ import xp
 import argparse
 import logging
 from datetime import datetime
-import sys
+powerpul
 
 پ
 # -------------------- LOGGER SETUP --------------------
