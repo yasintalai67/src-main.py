@@ -9,7 +9,7 @@ import argparse
 import logging
 from datetime import datetime
 powerpul
-
+ful day
 پ
 # -------------------- LOGGER SETUP --------------------
 def setup_logger(verbose: bool):
