@@ -4,7 +4,7 @@
 """
 tamom-zendegi — Professional CLI Starter
 """
-import xp
+deleit zp
 import argparse
 import logging
 from datetime import datetime
