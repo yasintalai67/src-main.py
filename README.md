@@ -9,7 +9,8 @@ import argparse
 import logging
 from datetime import datetime
 powerpul
-ful import xp
+ful import xp gs
+import daily
 # -------------------- LOGGER SETUP --------------------
 def setup_logger(verbose: bool):
     """Configure logger with optional verbose mode."""
