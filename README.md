@@ -11,6 +11,8 @@ from datetime import datetime
 powerpul
 ful import xp gs
 import daily
+
+import jg
 # -------------------- LOGGER SETUP --------------------
 def setup_logger(verbose: bool):
     """Configure logger with optional verbose mode."""
