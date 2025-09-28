@@ -65,3 +65,5 @@ fasted app
 
 
 developer xp kaito
+
+lxp linea
