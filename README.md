@@ -75,3 +75,4 @@ A new special mission is upon us.
 3 PM GMT | Tuesday, Oct 7
 
  Will you answer the call?
+Identity Staking Stake GTC to boost trust in the ecosystem
