@@ -69,9 +69,6 @@ developer xp kaito
 lxp linea
 anichess gameing power
 
-pouiygf
-A new special mission is upon us.
-
 3 PM GMT | Tuesday, Oct 7
 
  Will you answer the call?
