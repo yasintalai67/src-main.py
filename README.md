@@ -68,7 +68,7 @@ developer xp kaito
 
 lxp linea
 anichess gameing power
-good day fam
+
 
  Will you answer the call?
 Identity Staking Stake GTC to boost trust in the ecosystem
