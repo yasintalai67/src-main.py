@@ -72,3 +72,4 @@ anichess gameing power
 
  Will you answer the call?
 Identity Staking Stake GTC to boost trust in the ecosystem
+Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.
