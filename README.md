@@ -69,3 +69,4 @@ Identity Staking Stake GTC to boost trust in the ecosystem
 Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.
 apt! the sophistication it brings to dapps is on another level
 https://claim.monad.xyz/
+It was so obvious that he would let people down that I said it before. 36 months of vesting and %5 what a joke ahuhauhauh
