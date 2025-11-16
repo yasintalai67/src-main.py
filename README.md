@@ -68,6 +68,3 @@ developer xp kaito
 Identity Staking Stake GTC to boost trust in the ecosystem
 Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.
 apt! the sophistication it brings to dapps is on another level
-3 years vesting doesn't mean we give it all out in 3 years
-can save some for your grandkids
-Hello. If I unstake the check stake allocated to me for the Eternals NFT, will I lose my right to receive the vested portion?
