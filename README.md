@@ -66,5 +66,3 @@ fasted app
 developer xp kaito
  Will you answer the call?
 Identity Staking Stake GTC to boost trust in the ecosystem
-Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.
-apt! the sophistication it brings to dapps is on another level
