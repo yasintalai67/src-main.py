@@ -65,4 +65,3 @@ fasted app
 
 developer xp kaito
  Will you answer the call?
-Identity Staking Stake GTC to boost trust in the ecosystem
