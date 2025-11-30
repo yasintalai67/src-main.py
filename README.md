@@ -65,3 +65,8 @@ fasted app
 
 developer xp kaito
  Will you answer the call?
+“precision mind”
+he’s got that engineer brain where everything lines up perfectly
+his reviews and takes on ethos feel like blueprints not opinions
+super valuable for anyone trying to build something real
+
