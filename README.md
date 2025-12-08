@@ -71,3 +71,4 @@ his reviews and takes on ethos feel like blueprints not opinions
 super valuable for anyone trying to build something real
 https://aithereumnetwork.com/
 Do you feel confident about your current skill set?
+Do you prefer working remotely or on-site?
