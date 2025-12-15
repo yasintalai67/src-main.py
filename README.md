@@ -71,3 +71,4 @@ his reviews and takes on ethos feel like blueprints not opinions
 super valuable for anyone trying to build something real
 https://aithereumnetwork.com/
 curious to see how future borrow n protect layers roll out
+umi moves like something meant to happen slow quiet inevitable like destiny
