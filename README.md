@@ -75,5 +75,6 @@ umi moves like something meant to happen slow quiet inevitable like destiny
 Have you identified your target users yet?
 Hey, are you still experimenting with different AI models today?
 Would you outsource parts of the development?
+deposited once n letting the vault do its thing
 
 
