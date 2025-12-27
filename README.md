@@ -76,5 +76,6 @@ Have you identified your target users yet?
 Hey, are you still experimenting with different AI models today?
 Would you outsource parts of the development?
 deposited once n letting the vault do its thing
+The protocol seems designed to grow with the ecosystem, not extract from it
 
 
